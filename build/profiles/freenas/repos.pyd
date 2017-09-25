@@ -42,7 +42,7 @@ repos += {
 repos += {
     "name": "webui",
     "path": "webui",
-    "url": "http://github.com/freenas/webui.git",
+    "url": "http://github.com/krcNAS/webui.git",
     "branch": "master"
 }
 
